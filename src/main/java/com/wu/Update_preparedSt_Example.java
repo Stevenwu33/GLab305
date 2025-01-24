@@ -43,6 +43,5 @@ public class Update_preparedSt_Example {
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
-
     }
 }

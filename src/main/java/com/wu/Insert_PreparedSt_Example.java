@@ -61,7 +61,6 @@ public class Insert_PreparedSt_Example {
             e.printStackTrace();
         }
 
-
     }
 
 }
